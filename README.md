@@ -1,10 +1,10 @@
 # Python_project
 this is my first respository
 
-this repositories contains a list of problems(with solution) with gradually increasing difficulty levels that can help students in learning Python programming in a systematic way. The problems are chosen such that they are related to basic math so that there can be a better appreciation for the task and the solution.
+this repository contains a list of problems(with solution) with gradually increasing difficulty levels that can help students in learning Python programming in a systematic way. The problems are chosen such that they are related to basic math so that there can be a better appreciation for the task and the solution.
 
 
-All above questions can be found here:
+All questions of this repository (python_project) can be found here all together:
 
 https://medium.com/@atmabodha/python-programming-practice-problems-54bcf8c8eef1
 
