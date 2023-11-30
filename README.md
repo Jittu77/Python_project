@@ -5,10 +5,15 @@ this repositories contains a list of problems with gradually increasing difficul
 
 Topics
 Concept 1 : Conditionals [If-else]
+
 Concept 2 : For Loops (without lists)
+
 Concept 3 : For Loops (with lists)
+
 Concept 4 : Nested For Loops and Conditionals
+
 Concept 5 : Dictionaries
+
 Higher Level Programming Problems
 
 "Note:"
