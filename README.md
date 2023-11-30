@@ -1,7 +1,7 @@
 # Python_project
 this is my first respository
 
-this repositories contains a list of problems with gradually increasing difficulty levels that can help students in learning Python programming in a systematic way. The problems are chosen such that they are related to basic math so that there can be a better appreciation for the task and the solution.
+this repositories contains a list of problems(with solution) with gradually increasing difficulty levels that can help students in learning Python programming in a systematic way. The problems are chosen such that they are related to basic math so that there can be a better appreciation for the task and the solution.
 
 Topics
 Concept 1 : Conditionals [If-else]
