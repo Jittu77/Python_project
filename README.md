@@ -12,7 +12,7 @@ https://github.com/Jittu77/Python_project/tree/main/github_projects%2Fconditinal
 
 Concept 2 : For Loops (without lists)
 
-Link:
+Link:https://github.com/Jittu77/Python_project/tree/main/github_projects%2Ffor%20Loops%20(without%20list)
 
 Concept 3 : For Loops (with lists)
 
