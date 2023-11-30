@@ -6,7 +6,7 @@ this repository contains a list of problems(with solution) with gradually increa
 
 All questions of this repository (python_project) can be found here all together:
 
-https://medium.com/@atmabodha/python-programming-practice-problems-54bcf8c8eef1  (Credit:Professor Dr. Kushal shah) 
+https://medium.com/@atmabodha/python-programming-practice-problems-54bcf8c8eef1  (Credit:Professor Dr. Kushal Shah) 
 
 Topic wise Questions with solution:
 
