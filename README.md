@@ -16,7 +16,7 @@ Concept 5 : Dictionaries
 
 Higher Level Programming Problems
 
-and all above can be found here:
+and all above questions can be found here:
 
 https://medium.com/@atmabodha/python-programming-practice-problems-54bcf8c8eef1
 
