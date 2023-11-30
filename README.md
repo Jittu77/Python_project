@@ -7,8 +7,7 @@ Topics:
 
 Concept 1 : Conditionals [If-else]
 
-Link: 
-https://github.com/Jittu77/Python_project/tree/main/github_projects%2Fconditinals%5Bif%2C%20elif%20and%20else%5D
+Link:https://github.com/Jittu77/Python_project/tree/main/github_projects%2Fconditinals%5Bif%2C%20elif%20and%20else%5D
 
 Concept 2 : For Loops (without lists)
 
@@ -17,9 +16,10 @@ Link:https://github.com/Jittu77/Python_project/tree/main/github_projects%2Ffor%2
 Concept 3 : For Loops (with lists)
 
 Link:https://github.com/Jittu77/Python_project/tree/main/github_projects%2Ffor%20loops%20(with%20lists)
+
 Concept 4 : Nested For Loops and Conditionals
 
-Link:
+Link:https://github.com/Jittu77/Python_project/tree/main/github_projects%2FNested%20For%20Loops%20and%20Conditionals
 
 Concept 5 : Dictionaries
 
