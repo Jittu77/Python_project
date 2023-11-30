@@ -27,15 +27,14 @@ Link:https://github.com/Jittu77/Python_project/tree/main/github_projects%2F5.dic
 
 Higher Level Programming Problems
 
-Link:
+Link:https://github.com/Jittu77/Python_project/tree/main/github_projects%2F6.higher%20level
 
 and all above questions can be found here:
 
 https://medium.com/@atmabodha/python-programming-practice-problems-54bcf8c8eef1
 
-"Note:"
 
-Here is the video link of problem 1 of higher level pragramming problems:
+NOTE:  Here is the video link of problem 1 of higher level pragramming problems:
 
 Question: Given a list of numbers, sort it in ascending order.
 
