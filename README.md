@@ -6,7 +6,7 @@ this repository contains a list of problems(with solution) with gradually increa
 
 All questions of this repository (python_project) can be found here all together:
 
-https://medium.com/@atmabodha/python-programming-practice-problems-54bcf8c8eef1
+https://medium.com/@atmabodha/python-programming-practice-problems-54bcf8c8eef1  (Credit:Professor Dr. Kushal shah) 
 
 Topic wise Questions with solution:
 
@@ -41,3 +41,5 @@ NOTE:  Here is the video link of problem 1 of higher level pragramming problems:
 Question: Given a list of numbers, sort it in ascending order.
 
 video solution: https://drive.google.com/file/d/1TDiIVibesKL9pY_YMZn8zfNMVAb1SFxd/view?usp=sharing
+
+
