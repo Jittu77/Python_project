@@ -11,7 +11,7 @@ Concept 4 : Nested For Loops and Conditionals
 Concept 5 : Dictionaries
 Higher Level Programming Problems
 
-"NOte:"
+"Note:"
 Here is the video link of problem 1 of higher level pragramming problems:
 Question: Given a list of numbers, sort it in ascending order.
 video solution: https://drive.google.com/file/d/1TDiIVibesKL9pY_YMZn8zfNMVAb1SFxd/view?usp=sharing
