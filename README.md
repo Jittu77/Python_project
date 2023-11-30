@@ -16,8 +16,7 @@ Link:https://github.com/Jittu77/Python_project/tree/main/github_projects%2Ffor%2
 
 Concept 3 : For Loops (with lists)
 
-Link
-
+Link:https://github.com/Jittu77/Python_project/tree/main/github_projects%2Ffor%20loops%20(with%20lists)
 Concept 4 : Nested For Loops and Conditionals
 
 Link:
