@@ -3,7 +3,12 @@ this is my first respository
 
 this repositories contains a list of problems(with solution) with gradually increasing difficulty levels that can help students in learning Python programming in a systematic way. The problems are chosen such that they are related to basic math so that there can be a better appreciation for the task and the solution.
 
-Topics:
+
+All above questions can be found here:
+
+https://medium.com/@atmabodha/python-programming-practice-problems-54bcf8c8eef1
+
+Topic wise Questions with solution:
 
 Concept 1 : Conditionals [If-else]
 
@@ -29,9 +34,6 @@ Higher Level Programming Problems
 
 Link:https://github.com/Jittu77/Python_project/tree/main/github_projects%2F6.higher%20level
 
-and all above questions can be found here:
-
-https://medium.com/@atmabodha/python-programming-practice-problems-54bcf8c8eef1
 
 
 NOTE:  Here is the video link of problem 1 of higher level pragramming problems:
